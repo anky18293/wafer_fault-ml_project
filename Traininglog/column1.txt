@@ -1,0 +1,37 @@
+2023-01-23/22:43:03		filled with null value and renamed first column with integer
+2023-02-01/22:17:13		filled with null value and renamed first column with integer
+2023-02-02/12:35:10		filled with null value and renamed first column with integer
+2023-02-02/21:00:29		filled with null value and renamed first column with integer
+2023-02-02/21:03:17		filled with null value and renamed first column with integer
+2023-02-02/21:03:55		:::[Errno 13] Permission denied: 'training_data/Good_data/wafer_21012020_080913.csv':::
+2023-02-02/21:06:47		:::[Errno 13] Permission denied: 'training_data/Good_data/wafer_21012020_080913.csv':::
+2023-02-02/21:08:27		filled with null value and renamed first column with integer
+2023-02-02/21:09:30		filled with null value and renamed first column with integer
+2023-02-02/21:14:01		filled with null value and renamed first column with integer
+2023-02-02/21:15:22		filled with null value and renamed first column with integer
+2023-02-02/21:18:53		filled with null value and renamed first column with integer
+2023-02-02/21:21:11		filled with null value and renamed first column with integer
+2023-02-02/21:21:11		filled with null value and renamed first column with integer
+2023-02-02/21:21:56		filled with null value and renamed first column with integer
+2023-02-02/21:21:56		filled with null value and renamed first column with integer
+2023-02-02/21:25:51		filled with null value and renamed first column with integer
+2023-02-02/21:25:51		filled with null value and renamed first column with integer
+2023-02-02/21:27:34		filled with null value and renamed first column with integer
+2023-02-02/21:27:34		filled with null value and renamed first column with integer
+2023-02-02/21:29:40		filled with null value and renamed first column with integer
+2023-02-02/21:29:41		filled with null value and renamed first column with integer
+2023-02-02/21:31:15		filled with null value and renamed first column with integer
+2023-02-02/21:31:15		filled with null value and renamed first column with integer
+2023-02-02/21:32:03		filled with null value and renamed first column with integer
+2023-02-02/21:32:03		:::Can only use .str accessor with string values!:::
+2023-02-02/21:32:41		:::Can only use .str accessor with string values!:::
+2023-02-02/21:33:07		:::Can only use .str accessor with string values!:::
+2023-02-02/21:39:13		filled with null value and renamed first column with integer
+2023-02-02/21:40:35		filled with null value and renamed first column with integer
+2023-02-02/21:48:16		filled with null value and renamed first column with integer
+2023-02-03/22:24:52		filled with null value and renamed first column with integer
+2023-02-03/22:25:14		filled with null value and renamed first column with integer
+2023-02-03/22:30:44		filled with null value and renamed first column with integer
+2023-02-03/22:33:34		filled with null value and renamed first column with integer
+2023-02-03/22:39:01		:::[WinError 3] The system cannot find the path specified: 'training_data/Good_data':::
+2023-05-07/20:18:20		filled with null value and renamed first column with integer

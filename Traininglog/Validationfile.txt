@@ -1,0 +1,70 @@
+2023-01-23/22:43:02		Validation started 
+2023-01-23/22:43:03		Data validation complete
+2023-01-23/22:43:03		Starting Data transformation
+2023-01-23/22:43:03		transformation complete
+2023-01-23/22:43:10		Table created successfully
+2023-01-23/22:43:10		Insertion strated
+2023-01-23/22:43:11		insertion complted
+2023-01-23/22:43:11		deleting good data folder
+2023-01-23/22:43:11		moving bad file to Archive
+2023-02-03/22:18:58		Validation started 
+2023-02-03/22:18:58		Data validation complete
+2023-02-03/22:18:58		Starting Data transformation
+2023-02-03/22:18:58		transformation complete
+2023-02-03/22:18:58		Table created successfully
+2023-02-03/22:18:58		Insertion strated
+2023-02-03/22:18:58		insertion complted
+2023-02-03/22:18:58		deleting good data folder
+2023-02-03/22:18:58		moving bad file to Archive
+2023-02-03/22:24:51		Validation started 
+2023-02-03/22:24:52		Data validation complete
+2023-02-03/22:24:52		Starting Data transformation
+2023-02-03/22:24:52		transformation complete
+2023-02-03/22:24:52		Table created successfully
+2023-02-03/22:24:52		Insertion strated
+2023-02-03/22:24:53		insertion complted
+2023-02-03/22:24:53		deleting good data folder
+2023-02-03/22:24:53		moving bad file to Archive
+2023-02-03/22:25:14		Validation started 
+2023-02-03/22:25:14		Data validation complete
+2023-02-03/22:25:14		Starting Data transformation
+2023-02-03/22:25:14		transformation complete
+2023-02-03/22:25:14		Table created successfully
+2023-02-03/22:25:14		Insertion strated
+2023-02-03/22:25:15		insertion complted
+2023-02-03/22:25:15		deleting good data folder
+2023-02-03/22:25:15		moving bad file to Archive
+2023-02-03/22:30:44		Validation started 
+2023-02-03/22:30:44		Data validation complete
+2023-02-03/22:30:44		Starting Data transformation
+2023-02-03/22:30:44		transformation complete
+2023-02-03/22:30:44		Table created successfully
+2023-02-03/22:30:44		Insertion strated
+2023-02-03/22:30:45		insertion complted
+2023-02-03/22:30:45		deleting good data folder
+2023-02-03/22:30:45		moving bad file to Archive
+2023-02-03/22:33:33		Validation started 
+2023-02-03/22:33:34		Data validation complete
+2023-02-03/22:33:34		Starting Data transformation
+2023-02-03/22:33:34		transformation complete
+2023-02-03/22:33:34		Table created successfully
+2023-02-03/22:33:34		Insertion strated
+2023-02-03/22:33:35		insertion complted
+2023-02-03/22:33:35		deleting good data folder
+2023-02-03/22:33:35		moving bad file to Archive
+2023-02-03/22:39:01		Validation started 
+2023-02-03/22:39:01		Data validation complete
+2023-02-03/22:39:01		Starting Data transformation
+2023-02-03/22:39:01		transformation complete
+2023-02-03/22:39:01		Table created successfully
+2023-02-03/22:39:01		Insertion strated
+2023-02-03/22:39:01		:[WinError 3] The system cannot find the path specified: 'training_data/Good_data'
+2023-05-07/20:18:19		Validation started 
+2023-05-07/20:18:20		Data validation complete
+2023-05-07/20:18:20		Starting Data transformation
+2023-05-07/20:18:20		transformation complete
+2023-05-07/20:18:20		Table created successfully
+2023-05-07/20:18:20		Insertion strated
+2023-05-07/20:18:20		insertion complted
+2023-05-07/20:18:20		deleting good data folder
+2023-05-07/20:18:20		moving bad file to Archive

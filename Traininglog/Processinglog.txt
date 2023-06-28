@@ -1,0 +1,3 @@
+2023-01-29/12:42:15		we have entred into remove method
+2023-01-29/12:42:15		deleted column  and data is 
+2023-01-29/12:42:15		Error :I/O operation on closed file.

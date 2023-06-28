@@ -1,0 +1,5 @@
+2023-05-07/20:28:29		Validation of prediction has strated 
+2023-05-07/20:28:29		Valdatining column length
+2023-05-07/20:28:29		seeing missing value
+2023-05-07/20:28:29		validation done
+2023-05-07/20:28:29		transforamtion started

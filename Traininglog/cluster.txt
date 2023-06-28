@@ -1,0 +1,25 @@
+2023-01-29/22:17:54		error happened::[Errno 2] No such file or directory: 'data_preprocessing/figure of cluster.png'
+2023-01-29/22:18:46		sucessfully transfered  apporpraita cluser number  
+2023-01-29/22:21:08		sucessfully transfered  apporpraita cluser number  
+2023-01-29/22:21:08		error occured ::This KMeans instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2023-01-29/22:21:30		sucessfully transfered  apporpraita cluser number  
+2023-01-29/22:21:30		error occured ::This KMeans instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2023-01-29/22:22:19		sucessfully transfered  apporpraita cluser number  
+2023-01-29/22:22:19		error occured ::This KMeans instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2023-01-29/22:29:24		sucessfully transfered  apporpraita cluser number  
+2023-01-29/22:31:22		sucessfully transfered  apporpraita cluser number  
+2023-01-29/22:33:56		sucessfully transfered  apporpraita cluser number  
+2023-01-30/20:18:31		sucessfully transfered  apporpraita cluser number  
+2023-01-30/20:32:01		sucessfully transfered  apporpraita cluser number  
+2023-01-30/20:32:56		sucessfully transfered  apporpraita cluser number  
+2023-01-30/20:40:07		sucessfully transfered  apporpraita cluser number  
+2023-01-30/20:42:50		sucessfully transfered  apporpraita cluser number  
+2023-01-30/20:51:13		sucessfully transfered  apporpraita cluser number  
+2023-01-30/22:13:34		sucessfully transfered  apporpraita cluser number  
+2023-01-30/22:19:11		sucessfully transfered  apporpraita cluser number  
+2023-02-03/20:24:37		sucessfully transfered  apporpraita cluser number  
+2023-02-03/20:27:27		sucessfully transfered  apporpraita cluser number  
+2023-02-03/20:41:12		sucessfully transfered  apporpraita cluser number  
+2023-02-03/21:10:34		sucessfully transfered  apporpraita cluser number  
+2023-02-03/21:29:07		sucessfully transfered  apporpraita cluser number  
+2023-05-07/20:18:22		sucessfully transfered  apporpraita cluser number  

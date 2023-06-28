@@ -1,0 +1,18 @@
+2023-02-01/21:07:27		Missing Values Validation Started!!
+2023-02-01/21:14:51		Missing Values Validation Started!!
+2023-02-01/21:16:42		Missing Values Validation Started!!
+2023-02-01/21:29:56		Missing Values Validation Started!!
+2023-02-01/21:32:14		Missing Values Validation Started!!
+2023-02-01/21:32:14		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_28012020_051011.csv
+2023-02-01/21:39:09		Missing Values Validation Started!!
+2023-02-01/21:45:08		Missing Values Validation Started!!
+2023-02-01/22:51:54		Missing Values Validation Started!!
+2023-02-01/22:56:35		Missing Values Validation Started!!
+2023-02-01/22:56:35		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_23012020_011008.csv
+2023-02-01/23:01:31		Missing Values Validation Started!!
+2023-02-01/23:01:31		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_23012020_011008.csv
+2023-02-02/11:51:19		Missing Values Validation Started!!
+2023-02-02/12:43:46		Missing Values Validation Started!!
+2023-05-07/20:21:21		Missing Values Validation Started!!
+2023-05-07/20:25:21		Missing Values Validation Started!!
+2023-05-07/20:28:29		Missing Values Validation Started!!
