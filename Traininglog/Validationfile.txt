@@ -68,3 +68,48 @@
 2023-05-07/20:18:20		insertion complted
 2023-05-07/20:18:20		deleting good data folder
 2023-05-07/20:18:20		moving bad file to Archive
+2023-06-29/00:43:10		Validation started 
+2023-06-29/00:43:11		Data validation complete
+2023-06-29/00:43:11		Starting Data transformation
+2023-06-29/00:43:13		transformation complete
+2023-06-29/00:43:14		Table created successfully
+2023-06-29/00:43:14		Insertion strated
+2023-06-29/00:43:25		insertion complted
+2023-06-29/00:43:25		deleting good data folder
+2023-06-29/00:43:25		moving bad file to Archive
+2023-06-30/01:10:59		Validation started 
+2023-06-30/01:11:00		Data validation complete
+2023-06-30/01:11:00		Starting Data transformation
+2023-06-30/01:11:01		transformation complete
+2023-06-30/01:11:01		Table created successfully
+2023-06-30/01:11:01		Insertion strated
+2023-06-30/01:11:19		insertion complted
+2023-06-30/01:11:19		deleting good data folder
+2023-06-30/01:11:19		moving bad file to Archive
+2023-06-30/01:36:53		Validation started 
+2023-06-30/01:36:55		Data validation complete
+2023-06-30/01:36:55		Starting Data transformation
+2023-06-30/01:36:57		transformation complete
+2023-06-30/01:36:57		Table created successfully
+2023-06-30/01:36:57		Insertion strated
+2023-06-30/01:37:14		insertion complted
+2023-06-30/01:37:14		deleting good data folder
+2023-06-30/01:37:14		moving bad file to Archive
+2023-07-01/14:45:56		Validation started 
+2023-07-01/14:46:00		Data validation complete
+2023-07-01/14:46:00		Starting Data transformation
+2023-07-01/14:46:01		transformation complete
+2023-07-01/14:46:02		Table created successfully
+2023-07-01/14:46:02		Insertion strated
+2023-07-01/14:46:27		insertion complted
+2023-07-01/14:46:27		deleting good data folder
+2023-07-01/14:46:27		moving bad file to Archive
+2023-07-01/16:16:41		Validation started 
+2023-07-01/16:16:42		Data validation complete
+2023-07-01/16:16:42		Starting Data transformation
+2023-07-01/16:16:43		transformation complete
+2023-07-01/16:16:43		Table created successfully
+2023-07-01/16:16:43		Insertion strated
+2023-07-01/16:16:57		insertion complted
+2023-07-01/16:16:57		deleting good data folder
+2023-07-01/16:16:57		moving bad file to Archive

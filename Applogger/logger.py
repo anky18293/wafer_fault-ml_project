@@ -8,5 +8,6 @@ class Applogger:
         self.date=self.now.date()
         self.currenttime=self.now.strftime("%H:%M:%S")
         fileobject.write(
-            str(self.date)+"/"+str(self.currenttime)+"\t\t"+log+"\n"
-        )
+        str(self.date)+"/"+str(self.currenttime)+"\t\t"+log+"\n")
+        
+ 

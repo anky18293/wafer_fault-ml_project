@@ -15,6 +15,11 @@ os.putenv('LC_ALL', 'en_US.UTF-8')
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/", methods=['GET'])
+@cross_origin()
+def home():
+    return render_template('index.html')
+
 @app.route('/predict',methods=['GET'])
 @cross_origin()
 def predict():
@@ -50,7 +55,6 @@ def train():
 port = int(os.getenv("PORT",5001))
 if __name__ == "__main__":
     app.run(port=port,debug=True)
-
 
 
 

@@ -35,3 +35,8 @@
 2023-02-03/22:33:34		filled with null value and renamed first column with integer
 2023-02-03/22:39:01		:::[WinError 3] The system cannot find the path specified: 'training_data/Good_data':::
 2023-05-07/20:18:20		filled with null value and renamed first column with integer
+2023-06-29/00:43:13		filled with null value and renamed first column with integer
+2023-06-30/01:11:01		filled with null value and renamed first column with integer
+2023-06-30/01:36:57		filled with null value and renamed first column with integer
+2023-07-01/14:46:01		filled with null value and renamed first column with integer
+2023-07-01/16:16:43		filled with null value and renamed first column with integer

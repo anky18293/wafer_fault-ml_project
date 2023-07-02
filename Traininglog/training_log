@@ -74,3 +74,19 @@
 2023-05-07/20:18:21		removing column Wafer
 2023-05-07/20:18:22		list of cluster [1 0 2]
 2023-05-07/20:19:43		Suceesfull training
+2023-06-29/00:43:25		start of training
+2023-06-29/00:43:26		removing column Wafer
+2023-06-29/00:43:55		list of cluster [2 0 1]
+2023-06-29/00:49:06		Suceesfull training
+2023-06-30/01:11:19		start of training
+2023-06-30/01:37:17		start of training
+2023-06-30/01:37:17		removing column Wafer
+2023-06-30/01:37:28		'NoneType' object does not support item assignment
+2023-06-30/01:11:19		removing column Wafer
+2023-06-30/01:11:27		list of cluster [2 1 0]
+2023-06-30/01:39:11		Suceesfull training
+2023-07-01/14:46:29		start of training
+2023-07-01/16:16:59		start of training
+2023-07-01/16:16:59		removing column Wafer
+2023-07-01/16:17:11		list of cluster [2 0 1]
+2023-07-01/16:39:24		Suceesfull training

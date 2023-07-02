@@ -46,3 +46,8 @@
 2023-05-07/20:10:08		length of Date 8::	length of time  stamp 6::	number of col:592
 2023-05-07/20:10:59		length of Date 8::	length of time  stamp 6::	number of col:592
 2023-05-07/20:18:19		length of Date 8::	length of time  stamp 6::	number of col:592
+2023-06-29/00:43:10		length of Date 8::	length of time  stamp 6::	number of col:592
+2023-06-30/01:10:59		length of Date 8::	length of time  stamp 6::	number of col:592
+2023-06-30/01:36:53		length of Date 8::	length of time  stamp 6::	number of col:592
+2023-07-01/14:45:57		length of Date 8::	length of time  stamp 6::	number of col:592
+2023-07-01/16:16:41		length of Date 8::	length of time  stamp 6::	number of col:592

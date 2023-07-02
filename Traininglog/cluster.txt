@@ -23,3 +23,9 @@
 2023-02-03/21:10:34		sucessfully transfered  apporpraita cluser number  
 2023-02-03/21:29:07		sucessfully transfered  apporpraita cluser number  
 2023-05-07/20:18:22		sucessfully transfered  apporpraita cluser number  
+2023-06-29/00:43:52		sucessfully transfered  apporpraita cluser number  
+2023-06-30/01:11:26		sucessfully transfered  apporpraita cluser number  
+2023-06-30/01:37:28		error happened::main thread is not in main loop
+2023-06-30/01:37:28		error occured ::The 'n_clusters' parameter of KMeans must be an int in the range [1, inf). Got None instead.
+2023-07-01/14:47:28		sucessfully transfered  apporpraita cluser number  
+2023-07-01/16:17:10		sucessfully transfered  apporpraita cluser number  

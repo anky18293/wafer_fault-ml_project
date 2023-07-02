@@ -12,3 +12,13 @@ x2023-01-23/22:43:02		goodaw directory deleted before starting validation!!!
 2023-02-03/22:33:35		goodaw directory deleted before starting validation!!!
 2023-05-07/20:18:19		deleted
 2023-05-07/20:18:20		goodaw directory deleted before starting validation!!!
+2023-06-29/00:43:10		deleted
+2023-06-29/00:43:25		goodaw directory deleted before starting validation!!!
+2023-06-30/01:10:59		deleted
+2023-06-30/01:11:19		goodaw directory deleted before starting validation!!!
+2023-06-30/01:36:53		deleted
+2023-06-30/01:37:14		goodaw directory deleted before starting validation!!!
+2023-07-01/14:45:57		deleted
+2023-07-01/14:46:27		goodaw directory deleted before starting validation!!!
+2023-07-01/16:16:41		deleted
+2023-07-01/16:16:57		goodaw directory deleted before starting validation!!!
